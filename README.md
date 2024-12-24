@@ -48,7 +48,7 @@ Bu proje, hastane randevu süreçlerini dijitalleştirerek hastaların, doktorla
 - Doktorlar ve hastalar bu sayfadan duyuruları okuyabilir.
 
 ### Görsel:
-![Duyurular Sayfası](Images/git5png)
+![Duyurular Sayfası](Images/git5.png)
 
 ---
 
