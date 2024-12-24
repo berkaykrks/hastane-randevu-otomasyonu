@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Hastane-Otomasyonu\\Hastane-Otomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F11CC263-BFED-4631-B008-AF8A4084FF31}|Hastane-Otomasyonu\\Hastane-Otomasyonu.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\hastane-otomasyonu\\hastane-otomasyonu\\hastane-otomasyonu\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11CC263-BFED-4631-B008-AF8A4084FF31}|Hastane-Otomasyonu\\Hastane-Otomasyonu.csproj|solutionrelative:hastane-otomasyonu\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11CC263-BFED-4631-B008-AF8A4084FF31}|Hastane-Otomasyonu\\Hastane-Otomasyonu.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\hastane-otomasyonu\\hastane-otomasyonu\\hastane-otomasyonu\\frmbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11CC263-BFED-4631-B008-AF8A4084FF31}|Hastane-Otomasyonu\\Hastane-Otomasyonu.csproj|solutionrelative:hastane-otomasyonu\\frmbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11CC263-BFED-4631-B008-AF8A4084FF31}|Hastane-Otomasyonu\\Hastane-Otomasyonu.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\hastane-otomasyonu\\hastane-otomasyonu\\hastane-otomasyonu\\frmbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F11CC263-BFED-4631-B008-AF8A4084FF31}|Hastane-Otomasyonu\\Hastane-Otomasyonu.csproj|solutionrelative:hastane-otomasyonu\\frmbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Hastane-Otomasyonu\\Hastane-Otomasyonu\\Hastane-Otomasyonu\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Hastane-Otomasyonu\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Hastane-Otomasyonu\\Hastane-Otomasyonu\\Hastane-Otomasyonu\\DatabaseConnection.cs",
+              "RelativeToolTip": "Hastane-Otomasyonu\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:34:50.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBilgiDuzenle.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Hastane-Otomasyonu\\Hastane-Otomasyonu\\Hastane-Otomasyonu\\FrmBilgiDuzenle.cs",
+              "RelativeDocumentMoniker": "Hastane-Otomasyonu\\FrmBilgiDuzenle.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Hastane-Otomasyonu\\Hastane-Otomasyonu\\Hastane-Otomasyonu\\FrmBilgiDuzenle.cs",
+              "RelativeToolTip": "Hastane-Otomasyonu\\FrmBilgiDuzenle.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:34:41.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBilgiDuzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Hastane-Otomasyonu\\Hastane-Otomasyonu\\Hastane-Otomasyonu\\FrmBilgiDuzenle.cs",
+              "RelativeDocumentMoniker": "Hastane-Otomasyonu\\FrmBilgiDuzenle.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Hastane-Otomasyonu\\Hastane-Otomasyonu\\Hastane-Otomasyonu\\FrmBilgiDuzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hastane-Otomasyonu\\FrmBilgiDuzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:34:39.791Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
