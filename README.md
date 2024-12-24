@@ -78,7 +78,7 @@ Bu proje, hastane randevu süreçlerini dijitalleştirerek hastaların, doktorla
 - **Visual Studio 2022:** Projenin geliştirme ortamı.
 
 ## Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE.txt) dosyasına göz atabilirsiniz.
 
 © 2024 Ata Berkay Karakuş. Tüm hakları saklıdır.
 
